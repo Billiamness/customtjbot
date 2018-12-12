@@ -1,0 +1,15 @@
+{
+  "name": "realtime_translation",
+  "version": "1.0.0",
+  "description": "translate spoken words in real time",
+  "main": "rtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Mellon",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "tjbot": "^1.5.1"
+  }
+}
